@@ -1,0 +1,300 @@
+[2026-07-18 04:13:43:1343] [ERROR]: Error fetching candles from provider (timeframe=30m): yahooFinance.chart is not a function
+[2026-07-18 04:13:43:1343] [ERROR]: [ERROR] Failed to fetch/aggregate "30m": yahooFinance.chart is not a function
+[2026-07-18 04:13:43:1343] [ERROR]: Error fetching candles from provider (timeframe=1h): yahooFinance.chart is not a function
+[2026-07-18 04:13:43:1343] [ERROR]: [ERROR] Failed to fetch/aggregate "1h": yahooFinance.chart is not a function
+[2026-07-18 04:13:43:1343] [ERROR]: Error fetching candles from provider (timeframe=4h): yahooFinance.chart is not a function
+[2026-07-18 04:13:43:1343] [ERROR]: [ERROR] Failed to fetch/aggregate "4h": yahooFinance.chart is not a function
+[2026-07-18 04:13:43:1343] [ERROR]: Error fetching candles from provider (timeframe=1d): yahooFinance.chart is not a function
+[2026-07-18 04:13:43:1343] [ERROR]: [ERROR] Failed to fetch/aggregate "1d": yahooFinance.chart is not a function
+[2026-07-18 04:20:15:2015] [ERROR]: Error fetching candles from provider (timeframe=30m): Call `const yahooFinance = new YahooFinance()` first.  Upgrading from v2?  See https://github.com/gadicc/yahoo-finance2/blob/dev/docs/UPGRADING.md.
+[2026-07-18 04:20:15:2015] [ERROR]: [ERROR] Failed to fetch/aggregate "30m": Call `const yahooFinance = new YahooFinance()` first.  Upgrading from v2?  See https://github.com/gadicc/yahoo-finance2/blob/dev/docs/UPGRADING.md.
+[2026-07-18 04:20:15:2015] [ERROR]: Error fetching candles from provider (timeframe=1h): Call `const yahooFinance = new YahooFinance()` first.  Upgrading from v2?  See https://github.com/gadicc/yahoo-finance2/blob/dev/docs/UPGRADING.md.
+[2026-07-18 04:20:15:2015] [ERROR]: [ERROR] Failed to fetch/aggregate "1h": Call `const yahooFinance = new YahooFinance()` first.  Upgrading from v2?  See https://github.com/gadicc/yahoo-finance2/blob/dev/docs/UPGRADING.md.
+[2026-07-18 04:20:15:2015] [ERROR]: Error fetching candles from provider (timeframe=4h): Call `const yahooFinance = new YahooFinance()` first.  Upgrading from v2?  See https://github.com/gadicc/yahoo-finance2/blob/dev/docs/UPGRADING.md.
+[2026-07-18 04:20:15:2015] [ERROR]: [ERROR] Failed to fetch/aggregate "4h": Call `const yahooFinance = new YahooFinance()` first.  Upgrading from v2?  See https://github.com/gadicc/yahoo-finance2/blob/dev/docs/UPGRADING.md.
+[2026-07-18 04:20:15:2015] [ERROR]: Error fetching candles from provider (timeframe=1d): Call `const yahooFinance = new YahooFinance()` first.  Upgrading from v2?  See https://github.com/gadicc/yahoo-finance2/blob/dev/docs/UPGRADING.md.
+[2026-07-18 04:20:15:2015] [ERROR]: [ERROR] Failed to fetch/aggregate "1d": Call `const yahooFinance = new YahooFinance()` first.  Upgrading from v2?  See https://github.com/gadicc/yahoo-finance2/blob/dev/docs/UPGRADING.md.
+[2026-07-18 04:22:58:2258] [ERROR]: Error fetching candles from provider (timeframe=30m): No data found, symbol may be delisted
+[2026-07-18 04:22:58:2258] [ERROR]: [ERROR] Failed to fetch/aggregate "30m": No data found, symbol may be delisted
+[2026-07-18 04:22:59:2259] [ERROR]: Error fetching candles from provider (timeframe=1h): No data found, symbol may be delisted
+[2026-07-18 04:22:59:2259] [ERROR]: [ERROR] Failed to fetch/aggregate "1h": No data found, symbol may be delisted
+[2026-07-18 04:22:59:2259] [ERROR]: Error fetching candles from provider (timeframe=4h): No data found, symbol may be delisted
+[2026-07-18 04:22:59:2259] [ERROR]: [ERROR] Failed to fetch/aggregate "4h": No data found, symbol may be delisted
+[2026-07-18 04:22:59:2259] [ERROR]: Error fetching candles from provider (timeframe=1d): No data found, symbol may be delisted
+[2026-07-18 04:22:59:2259] [ERROR]: [ERROR] Failed to fetch/aggregate "1d": No data found, symbol may be delisted
+[2026-07-18 04:29:08:298] [ERROR]: [FAILED] Strategy A Volatility Breakout failed to trigger in simulation.
+[2026-07-18 04:29:08:298] [ERROR]: [FAILED] Strategy B Mean Reversion failed to trigger in simulation.
+[2026-07-18 04:29:24:2924] [ERROR]: [FAILED] Strategy A Volatility Breakout failed to trigger in simulation.
+[2026-07-18 04:29:24:2924] [ERROR]:   Debug A: bbUpper=2014.6934889662807, close=2030, open=2012, bbWidth=0.013233894392845853, prevBbWidth=0.002
+[2026-07-18 04:30:52:3052] [ERROR]: [FAILED] Strategy A Volatility Breakout failed to trigger in simulation.
+[2026-07-18 04:30:52:3052] [ERROR]:   Debug A: bbUpper=2014.6934889662807, close=2030, open=2018, bbWidth=0.013233894392845853, prevBbWidth=0.002
+[2026-07-18 04:31:07:317] [ERROR]: [FAILED] Strategy A Volatility Breakout failed to trigger in simulation.
+[2026-07-18 04:31:07:317] [ERROR]:   Debug A: bbUpper=2015.5356644595693, close=2030, open=2018, bbWidth=0.014153538410797629, prevBbWidth=0.005635235847285349
+[2026-07-18 04:31:23:3123] [ERROR]: [FAILED] Strategy A Volatility Breakout failed to trigger in simulation.
+[2026-07-18 04:31:23:3123] [ERROR]:   Debug A: bbUpper=2014.8029408585055, close=2030, open=2018, bbWidth=0.013594783988112594, prevBbWidth=0.0042426406871193196
+[2026-07-18 04:31:38:3138] [ERROR]: [FAILED] Strategy A Volatility Breakout failed to trigger in simulation.
+[2026-07-18 04:31:38:3138] [ERROR]:   Debug A: bbUpper=2014.6934889662807, close=2030, open=2018, bbWidth=0.013233894392845853, prevBbWidth=0.002
+[2026-07-18 13:49:35:4935] [ERROR]: Error fetching candles from provider (timeframe=1d): fetch failed
+[2026-07-18 13:49:35:4935] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 13:49:35:4935] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 13:49:35:4935] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 13:49:35:4935] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 13:49:35:4935] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 13:49:35:4935] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 13:49:35:4935] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 13:49:35:4935] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 13:49:35:4935] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 13:49:35:4935] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 13:49:35:4935] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 13:49:35:4935] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 13:49:35:4935] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 13:49:35:4935] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 13:58:09:589] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 13:58:09:589] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 13:58:09:589] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 13:58:09:589] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 13:58:09:589] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 13:58:09:589] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 13:58:09:589] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 13:58:09:589] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 13:58:09:589] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 13:58:09:589] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 13:58:09:589] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 13:58:09:589] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 13:58:09:589] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 13:58:09:589] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 13:58:09:589] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 14:53:14:5314] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 14:53:14:5314] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 14:53:14:5314] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 15:53:14:5314] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 15:53:14:5314] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 15:53:14:5314] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 15:53:14:5314] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 15:53:14:5314] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 15:53:14:5314] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 15:53:14:5314] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 15:53:14:5314] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 15:53:14:5314] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 15:53:14:5314] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 15:53:14:5314] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 15:53:14:5314] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 15:58:12:5812] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 15:58:12:5812] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 15:58:12:5812] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 15:58:12:5812] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 15:58:12:5812] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 15:58:12:5812] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 15:58:12:5812] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 15:58:12:5812] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 15:58:12:5812] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 15:58:12:5812] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 15:58:12:5812] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 15:58:12:5812] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 15:58:12:5812] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 15:58:12:5812] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 15:58:12:5812] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 16:12:06:126] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 16:12:06:126] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 16:12:06:126] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 16:12:06:126] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 16:12:06:126] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 16:12:06:126] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 16:12:06:126] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 16:12:06:126] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 16:12:06:126] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 16:12:06:126] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 16:12:06:126] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 16:12:06:126] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 16:12:06:126] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 16:12:06:126] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 16:12:06:126] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 16:12:15:1215] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 16:12:15:1215] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 16:12:15:1215] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 16:12:15:1215] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 16:12:15:1215] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 16:12:15:1215] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 16:12:15:1215] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 16:12:15:1215] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 16:12:15:1215] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 16:12:15:1215] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 16:12:15:1215] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 16:12:15:1215] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 16:13:32:1332] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 16:13:32:1332] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 16:13:32:1332] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 19:08:15:815] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 19:08:15:815] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 19:08:15:815] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 19:08:15:815] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 19:08:15:815] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 19:08:15:815] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 19:08:22:822] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 19:08:22:822] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 19:08:22:822] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 19:08:22:822] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 19:08:22:822] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 19:08:22:822] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 19:08:22:822] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 19:08:22:822] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 19:08:22:822] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 19:08:22:822] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 19:08:22:822] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 19:08:22:822] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 20:27:00:270] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 20:27:00:270] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 20:27:00:270] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 20:27:02:272] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 20:27:02:272] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 20:27:02:272] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 20:27:02:272] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 20:27:02:272] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 20:27:02:272] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 20:27:02:272] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 20:27:02:272] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 20:27:02:272] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 20:27:02:272] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 20:27:02:272] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 20:27:02:272] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 20:53:16:5316] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 20:53:16:5316] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 20:53:16:5316] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 21:24:51:2451] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 21:24:51:2451] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 21:24:51:2451] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2026-07-18 21:54:00:540] [ERROR]: Error fetching candles from provider (timeframe=1h): fetch failed
+[2026-07-18 21:54:00:540] [ERROR]: Error in getCandles: fetch failed
+[2026-07-18 21:54:00:540] [ERROR]: [EXPRESS ERROR] 500 - fetch failed
+Stack: TypeError: fetch failed
+    at node:internal/deps/undici/undici:13510:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)

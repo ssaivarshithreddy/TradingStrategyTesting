@@ -1,0 +1,18 @@
+{
+  "active_strategies": [
+    "BB_BREAKOUT",
+    "MEAN_REVERSION",
+    "SUPERTREND_PIVOT",
+    "CPR_WIDTH"
+  ],
+  "notifications_enabled": true,
+  "risk_reward_min": 2,
+  "risk_percentage": 1,
+  "trading_timeframes": [
+    "5m",
+    "30m",
+    "1h",
+    "4h",
+    "1d"
+  ]
+}
